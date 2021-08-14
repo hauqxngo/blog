@@ -22,6 +22,17 @@ url: "https://hauqxngo.com" # the base hostname & protocol for your site, e.g. h
 twitter_username: hauqxngo
 github_username:  hauqxngo
 
+# Fields minima uses, but are not defaulted with the jekyll new command.
+# Author is the default for posts, the Atom feed, and is used in the footer.
+author: Hau
+linkedin_username: hauqxngo
+instagram_username: hauqxngo
+
+# New fields not defaulted by jekyll-new with the minima theme
+# Add a copyright. A copyright symbol and a year will be added automatically
+# copyright: Company Name, Inc
+copyright: "Hau Ngo"
+
 # Build settings
 markdown: kramdown
 # Remove minima theme as it is now a regular theme.
